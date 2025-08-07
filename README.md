@@ -14,7 +14,7 @@ I've been programming for 5 years, with the last 3 years developing nearly every
 
 **Python** - Data analysis and scripting  
 
-## Focus Areas
+## Expertise
 - High-performance backend systems
 - Native cross-platform desktop applications
 - User interfaces
