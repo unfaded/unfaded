@@ -9,7 +9,6 @@ I've been programming for 5 years, with the last 3 years developing nearly every
 
 ## Languages
 **Rust** - My primary language and preference for most projects. I use it for high-performance backends, native desktop applications, and web interfaces. I recently began publishing my projects on GitHub and contributing to open source.
-
 **C++** - Legacy codebases and systems programming  
 **TypeScript** - Web development when projects require it  
 **Python** - Data analysis and scripting  
