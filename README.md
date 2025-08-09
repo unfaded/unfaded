@@ -10,7 +10,7 @@ I've been programming for 5 years, with the last 3 years developing nearly every
 
 **C++** - Legacy codebases and systems programming
 
-**TypeScript** - Web development when projects require it
+**TypeScript** - Web development
 
 **Python** - Data analysis and scripting
 
