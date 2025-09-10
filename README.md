@@ -21,5 +21,3 @@ I've been programming for 5 years, with the last 3 years developing nearly every
 - System-level programming (Linux systems, Windows internals)
 - Data analysis pipelines
 - Docker deployment workflows
-
-**Environment**: Arch Linux
